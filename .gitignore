@@ -1,0 +1,5 @@
+#ignore the index file holding the problem js
+index.html
+
+#ignore vscode config
+.vscode/
